@@ -1,0 +1,20 @@
+Sample Input,,,,,,Desired Output,,,,,,
+,,,,,,,,,,,,
+Team,Opponent,Result,,,,,Birds,Elephants,Hawks,Dogs,Chiefs,Steelers
+Cardinals,Birds,Big loss,,,,Cardinals,Big loss,Big win,,,,
+Cardinals,Elephants,Big win,,,,Tigers,Medium Win,Medium Loss,Tie,,,
+Tigers,Birds,Medium Win,,,,Bears,Huge win,,Overtime Loss,Overtime Win,,
+Tigers,Elephants,Medium Loss,,,,Sixers,Late win,,Late loss,,,Huge loss
+Tigers,Hawks,Tie,,,,Dodgers,Shootout tie,Tight game,Shootout loss,Forfeit,Overtime tie,Shootout win
+Bears,Hawks,Overtime Loss,,,,,,,,,,
+Bears,Dogs,Overtime Win,,,,,,,,,,
+Bears,Birds,Huge win,,,,,,,,,,
+Sixers,Birds,Late win,,,,,,,,,,
+Sixers,Hawks,Late loss,,,,,,,,,,
+Sixers,Steelers,Huge loss,,,,,,,,,,
+Dodgers,Elephants,Tight game,,,,,,,,,,
+Dodgers,Chiefs,Overtime tie,,,,,,,,,,
+Dodgers,Steelers,Shootout win,,,,,,,,,,
+Dodgers,Hawks,Shootout loss,,,,,,,,,,
+Dodgers,Birds,Shootout tie,,,,,,,,,,
+Dodgers,Dogs,Forfeit,,,,,,,,,,
